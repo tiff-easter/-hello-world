@@ -1,2 +1,4 @@
 # -hello-world
-This repository is for practicing the GitHub Flow.
+
+My name is Tiff Easter, I currently work in audience measurement. 
+
